@@ -1,0 +1,19 @@
+algorithm,graph,V,E,seed,repeats,mean_ns,edge_checks,comparisons,find_calls,union_calls,result
+Kruskal,undirected,10,30,42,5,16300.0,16,110,52,16,weight 82
+Prim,undirected,10,30,42,5,26140.0,60,202,0,0,weight 82
+Kosaraju,cyclic,10,30,42,5,19060.0,90,0,0,0,components 1
+Topological,DAG,10,30,42,5,5900.0,60,0,0,0,ordered 10
+Topological,cyclic,10,30,42,5,980.0,30,0,0,0,cycle
+Dijkstra,cyclic,10,30,42,5,13420.0,60,32,0,0,reachable 10
+Kruskal,undirected,100,500,42,5,156960.0,191,3842,689,191,weight 604
+Prim,undirected,100,500,42,5,102020.0,1000,7647,0,0,weight 604
+Kosaraju,cyclic,100,500,42,5,101540.0,1500,0,0,0,components 2
+Topological,DAG,100,500,42,5,40280.0,1000,0,0,0,ordered 100
+Topological,cyclic,100,500,42,5,10040.0,500,0,0,0,cycle
+Dijkstra,cyclic,100,500,42,5,52660.0,1000,1562,0,0,reachable 100
+Kruskal,undirected,1000,5000,42,5,965460.0,3992,46440,15477,3992,weight 6660
+Prim,undirected,1000,5000,42,5,740820.0,10000,110094,0,0,weight 6660
+Kosaraju,cyclic,1000,5000,42,5,409940.0,15000,0,0,0,components 18
+Topological,DAG,1000,5000,42,5,291260.0,10000,0,0,0,ordered 1000
+Topological,cyclic,1000,5000,42,5,60600.0,5054,0,0,0,cycle
+Dijkstra,cyclic,1000,5000,42,5,887340.0,9946,22848,0,0,reachable 990

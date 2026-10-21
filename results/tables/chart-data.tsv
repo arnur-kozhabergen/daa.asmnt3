@@ -1,0 +1,19 @@
+Series	V	E	Mean ms
+Kruskal	10	30	0.016300
+Prim	10	30	0.026140
+Kosaraju	10	30	0.019060
+Topological DAG	10	30	0.005900
+Topological cyclic	10	30	0.000980
+Dijkstra	10	30	0.013420
+Kruskal	100	500	0.156960
+Prim	100	500	0.102020
+Kosaraju	100	500	0.101540
+Topological DAG	100	500	0.040280
+Topological cyclic	100	500	0.010040
+Dijkstra	100	500	0.052660
+Kruskal	1000	5000	0.965460
+Prim	1000	5000	0.740820
+Kosaraju	1000	5000	0.409940
+Topological DAG	1000	5000	0.291260
+Topological cyclic	1000	5000	0.060600
+Dijkstra	1000	5000	0.887340
