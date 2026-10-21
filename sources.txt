@@ -1,5 +1,7 @@
+src/connectivity/Connectivity.java
+src/dsu/DSU.java
 src/graph/Edge.java
 src/graph/Graph.java
-src/dsu/DSU.java
+src/Main.java
 src/mst/MST.java
-src/connectivity/Connectivity.java
+src/shortestpath/Dijkstra.java
