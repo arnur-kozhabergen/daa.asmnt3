@@ -2,6 +2,8 @@ src/connectivity/Connectivity.java
 src/dsu/DSU.java
 src/graph/Edge.java
 src/graph/Graph.java
+src/graph/GraphGenerator.java
 src/Main.java
 src/mst/MST.java
 src/shortestpath/Dijkstra.java
+src/Tests.java
