@@ -1,3 +1,4 @@
+src/Benchmark.java
 src/connectivity/Connectivity.java
 src/dsu/DSU.java
 src/graph/Edge.java
